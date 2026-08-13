@@ -1,1 +1,1 @@
-# VariableStarPredictor
+# This is my project
